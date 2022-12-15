@@ -1,5 +1,6 @@
-on : 
-  push
+on:
+ push
+  
 jobs:
   update:
     runs-on: ubuntu-latest
